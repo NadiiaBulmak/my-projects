@@ -1,0 +1,11 @@
+[user]
+ name = Nadiia Bulmak
+ email = nadgaval@gmail.com
+[alias]
+ ci = commit
+ co = checkout
+ br = branch
+ st = status
+ lg = log --pretty='format:%C(auto)%h (%s, %ad) %(decorate:prefix=,suffix=,tag=,separator= )'
+[core]
+ editor = nano
